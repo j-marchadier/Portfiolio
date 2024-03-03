@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    background-color:rgba(50.000000819563866, 95.00000193715096, 116.00000068545341, 1);
+    font-family: "Kode Mono", monospace;
+   
+    font-optical-sizing: auto;
+    font-weight: 32px;
+    font-style: normal;
+    color: aliceblue;
+}
+
+.radar_chart{
+    width: 100%;
+    height: 89%;
+}
